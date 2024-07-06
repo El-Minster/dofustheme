@@ -1,0 +1,11 @@
+<theme>
+    <name>dalton</name>
+    <skinType>1</skinType>
+    <description>Description du thème</description>
+    <previewUri>dalton.jpg</previewUri>
+    <author>El-Minster</author>
+    <version>1.0.0</version>
+    <dofusVersion>2.72</dofusVersion> 
+    <creationDate>06/07/2024</creationDate> 
+    <modificationDate>06/07/2024</modificationDate> 
+</theme>
